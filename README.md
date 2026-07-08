@@ -210,6 +210,7 @@ Through this project, the following digital design concepts were implemented and
 **Supriya**
 
 Junior Undergraduate , Electrical Engineering 
+
 Indian Institute of Technology Kanpur
 
 ---
