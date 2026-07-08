@@ -208,6 +208,7 @@ Through this project, the following digital design concepts were implemented and
 ## Author
 
 **Supriya**
+
 Junior Undergraduate , Electrical Engineering 
 Indian Institute of Technology Kanpur
 
