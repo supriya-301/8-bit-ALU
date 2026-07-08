@@ -207,9 +207,8 @@ Through this project, the following digital design concepts were implemented and
 
 ## Author
 
-**Samarth Awasthi**
-
-Electrical Engineering Undergraduate  
+**Supriya**
+Junior Undergraduate , Electrical Engineering 
 Indian Institute of Technology Kanpur
 
 ---
